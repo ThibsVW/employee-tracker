@@ -11,9 +11,15 @@ Employee Management System with CRUD (Create, read, update and delete) capabilit
 5. inquirer
 6. mysql
 
-## Video
+## Videos
+
+### Command line
 
 https://drive.google.com/file/d/1PVwgwOzF6CoB6X-AiQmTvR3HQy2Tg1ks/view
+
+### mySQL
+
+https://drive.google.com/file/d/1md13qlrIxBmFBvQlu-T4wsRAwZuCBKUf/view 
 
 ## Screen shot
 
