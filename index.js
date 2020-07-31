@@ -7,7 +7,7 @@ require("dotenv").config();
 
 const CFonts = require('cfonts');
  
-CFonts.say('Employee|Manager', {
+CFonts.say('Employee|Tracker', {
     font: 'block',              // define the font face
     align: 'left',              // define text alignment
     colors: ['system'],         // define all colors
