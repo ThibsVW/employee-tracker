@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ThibsVW/employee-tracker#readme",
   "dependencies": {
+    "cfonts": "^2.8.6",
     "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1"
